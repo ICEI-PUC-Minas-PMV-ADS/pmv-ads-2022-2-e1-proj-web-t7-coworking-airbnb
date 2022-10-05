@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# PLATAFORMA DE ALUGUEL DE ESPAÇOS DE COWORKING
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1 SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem como objetivo o desenvolvimento de uma plataforma onde seja possível conectar pessoas adeptas ao trabalho remoto aos serviços de locação de espaço para trabalho de curta, média ou longa duração. Com isso, espera-se desenvolver um sistema onde seja possível ter acesso à anúncios de espaços disponíveis e fazer a reserva e pagamento de forma online.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Antony Leme
+* Erick Scarponeti
+* Guilherme Lorenzo
+* Lucas Silva
+* Rodrigo Gatti
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos André Silveira Kutova
 
 ## Instruções de utilização
 
