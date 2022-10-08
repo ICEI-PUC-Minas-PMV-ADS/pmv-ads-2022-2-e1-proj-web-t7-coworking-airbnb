@@ -16,8 +16,8 @@
     </tr>
     <tr>
         <td>Repositório de código </td>
-        <td>22</td>
-        <td>Estudante</td>
+        <td>GitHub</td>
+        <td><a>(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb)</a></td>
     </tr>
     <tr>
         <td>Ralf</td>
