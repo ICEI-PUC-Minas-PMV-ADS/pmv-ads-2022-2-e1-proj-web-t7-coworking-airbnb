@@ -20,9 +20,24 @@
         <td><a>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb</a></td>
     </tr>
     <tr>
-        <td>Ralf</td>
-        <td>26</td>
-        <td>Designer</td>
+        <td>Documentos do projeto</td>
+        <td>Google Drive</td>
+        <td>https://docs.google.com/document/d/1U8BXLZGzARApQJ1aLUsTqgw0CnmtfSrnE-F-IRT_x8A/edit?usp=sharing</td>
+    </tr>
+    <tr>
+        <td>Interface</td>
+        <td>Figma</td>
+        <td>https://www.figma.com/file/FgOanD0O037f2KUI3qYRDF/Coworking-Airbnb?node-id=0%3A1</td>
+    </tr>
+    <tr>
+        <td>Gerenciamento do Projeto</td>
+        <td>GitHub</td>
+        <td>https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/180/views/1</td>
+    </tr>
+    <tr>
+        <td>Estrutura do código</td>
+        <td>Visual Studio Code</td>
+        <td>-</td>
     </tr>
 </table>
 	
