@@ -3,12 +3,28 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-<p>Uma das partes mais importantes de um projeto, é a organização e os meios que irá desenvolver o mesmo e a metodologia a ser usada faz toda a diferença, assim otimiza tempo e cada integrante do projeto tem uma linha de raciocínio a seguir, dessa forma a conclusão fica mais assertiva.<p>
-<p>As tarefas foram divididas entre os integrantes da equipe onde cada processo tem o máximo de atenção a ser desenvolvida.<p>
+<p>Uma das partes mais importantes de um projeto, é a organização e os meios que irá desenvolver o mesmo e a metodologia a ser usada faz toda a diferença, assim otimiza tempo e cada integrante do projeto tem uma linha de raciocínio a seguir, dessa forma a conclusão fica mais assertiva.</p>
+<p>As tarefas foram divididas entre os integrantes da equipe onde cada processo tem o máximo de atenção a ser desenvolvida.</p>
 
 # Relação de Ambientes de Trabalho
-	
-	
+<p>As ferramentas a serem utilizadas nesse processo, estão descritas na tabela abaixo.</p>
+	<table>
+    <tr>
+        <td>Ambiente</td>
+        <td>Ferramentas</td>
+        <td>Link de Acesso</td>
+    </tr>
+    <tr>
+        <td>Repositório de código </td>
+        <td>22</td>
+        <td>Estudante</td>
+    </tr>
+    <tr>
+        <td>Ralf</td>
+        <td>26</td>
+        <td>Designer</td>
+    </tr>
+</table>
 	
 ## Controle de Versão
 
