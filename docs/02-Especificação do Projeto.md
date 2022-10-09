@@ -39,7 +39,7 @@ Os requisitos funcionais aos quais o projeto deve atender, bem como o grau de pr
 |RF-002| O site deve permitir a criação de contas pelos usuários   | ALTA |
 |RF-003| O site deve permitir que o usuário dê feedback dos lugares que utilizou | ALTA | 
 |RF-004| O site deve permitir agendamentos de espaços de trabalho específicos em cada local    | MÉDIA |
-|RF-007| O site deve ser capaz de redirecionar endereços a mapas virtuais e criar rotas mais rápidas para acesso ao local   | BAIXA |
+|RF-005| O site deve ser capaz de redirecionar endereços a mapas virtuais e criar rotas mais rápidas para acesso ao local   | BAIXA |
 
 
 ### Requisitos não Funcionais
