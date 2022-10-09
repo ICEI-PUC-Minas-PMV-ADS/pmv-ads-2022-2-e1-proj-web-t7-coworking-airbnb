@@ -6,55 +6,11 @@ O direcionamento deste trabalho, a partir da definição do problema e buscando 
 
 A definição da persona é uma etapa fundamental para a representação, ainda que fictícia, do usuário ideal, baseada em características demográficas e comportamentais. Para esta etapa, os perfis dos usuários foram apresentados nas figuras a seguir.
 
-### Rafael Silva
-#### 1) Informações pessoais:
-- 25 anos
-- Solteiro
-- Mora com amigos em um apartamento pequeno na região metropolitana de Belo Horizonte/MG
-
-#### 2) Perfil profissional:
-- Designer gráfico em uma rede de clínicas de estética
-
-#### 3) Frustrações:
-- Mora em um apartamento pequeno
-- Tem um quarto pequeno e pouco espaço para trabalhar com conforto
-
-#### 4)Interesses:
-- Explorar novos ambientes de trabalho
-- Buscar inspirações urbanas para seu trabalho
-
-### Gabriella Ferreira
-#### 1) Informações pessoais:
-- 38 anos
-- Casada
-- Mora com a filha de 10 anos e o marido engenheiro civil na cidade de Belo Horizonte
-
-#### 2) Perfil profissional:
-- Empreendedora que escolher deixar o trabalho de gerente de Recursos Humanos para criar o espaço de coworking
-
-#### 3) Frustrações:
-- Não se sentia realizada no trabalho que desempenhava 
-- Falta de perspectiva de crescimento na empresa que trabalhava
-
-#### 4) Interesses:
-- Continuar trabalhando com pessoas ajudando-as ao disponibilizar espaços de trabalho com ambientes leves que ajudem na produtividade
-- Vê a crescente procura por espaços de trabalho compartilhado
-
-### Sabrina Costa
-#### 1) Informações pessoais:
-- 28 anos
-- Solteira
-- Trabalha de forma nômade viajando por cidades litorâneas do Brasil
-
-#### 2) Perfil profissional:
-- Fonoaudióloga especialista em comunicação humana e que presta serviços remotos para empresas de forma autônoma
-
-#### 3) Frustrações:
-- Não consegue se programar com antecedência quando planeja mudar de cidade
-
-#### 4) Interesses:
-- Encontrar espaços de coworking em nas cidades litorâneas em que tem interesse de morar e trabalhar
-- Procurar descontos para longas estadias
+| Nome | Informações pessoais | Perfil Profissional | Frustrações | Interesses |
+|------|----------------------|---------------------|-------------|------------|
+| Rafael Silva | 25 anos, solteiro, mora com amigos em um apartamento pequeno na região metropolitana de Belo Horizonte/MG | Designer gráfico em uma rede de clínicas de estética | Mora em um apartamento pequeno, tem um quarto pequeno e pouco espaço para trabalhar com conforto | Explorar novos ambientes de trabalho, buscar inspirações urbanas para seu trabalho |
+| Gabriella Ferreira | 38 anos, casada, mora com a filha de 10 anos e o marido engenheiro civil na cidade de Belo Horizonte | Empreendedora que escolher deixar o trabalho de gerente de Recursos Humanos para criar o espaço de coworking | Não se sentia realizada no trabalho que desempenhava, falta de perspectiva de crescimento na empresa que trabalhava  | Continuar trabalhando com pessoas ajudando-as ao disponibilizar espaços de trabalho com ambientes leves que ajudem na produtividade, vê a crescente procura por espaços de trabalho compartilhado  |
+| Sabrina Costa | 28 anos, solteira, nômade viajando por cidades litorâneas do Brasil | Fonoaudióloga especialista em comunicação humana e que presta serviços remotos para empresas de forma autônoma | Não consegue se programar com antecedência quando planeja mudar de cidade | Encontrar espaços de coworking em nas cidades litorâneas em que tem interesse de morar e trabalhar, procurar descontos para longas estadias |
 
 ## Histórias de Usuários
 
