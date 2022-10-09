@@ -1,26 +1,60 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O direcionamento deste trabalho, a partir da definição do problema e buscando atender aos seus objetivos, baseou-se na construção de persona e nos relatos dos usuários. Estas informações, por sua vez, foram levantadas pela equipe a partir de depoimentos e vivências do próprio grupo e também de outros indivíduos.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+A definição da persona é uma etapa fundamental para a representação, ainda que fictícia, do usuário ideal, baseada em características demográficas e comportamentais. Para esta etapa, os perfis dos usuários foram apresentados nas figuras a seguir.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+### Rafael Silva
+#### 1) Informações pessoais:
+- 25 anos
+- Solteiro
+- Mora com amigos em um apartamento pequeno na região metropolitana de Belo Horizonte/MG
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+#### 2) Perfil profissional:
+- Designer gráfico em uma rede de clínicas de estética
+
+#### 3) Frustrações:
+- Mora em um apartamento pequeno
+- Tem um quarto pequeno e pouco espaço para trabalhar com conforto
+
+#### 4)Interesses:
+- Explorar novos ambientes de trabalho
+- Buscar inspirações urbanas para seu trabalho
+
+### Gabriella Ferreira
+#### 1) Informações pessoais:
+- 38 anos
+- Casada
+- Mora com a filha de 10 anos e o marido engenheiro civil na cidade de Belo Horizonte
+
+#### 2) Perfil profissional:
+- Empreendedora que escolher deixar o trabalho de gerente de Recursos Humanos para criar o espaço de coworking
+
+#### 3) Frustrações:
+- Não se sentia realizada no trabalho que desempenhava 
+- Falta de perspectiva de crescimento na empresa que trabalhava
+
+#### 4) Interesses:
+- Continuar trabalhando com pessoas ajudando-as ao disponibilizar espaços de trabalho com ambientes leves que ajudem na produtividade
+- Vê a crescente procura por espaços de trabalho compartilhado
+
+### Sabrina Costa
+#### 1) Informações pessoais:
+- 28 anos
+- Solteira
+- Trabalha de forma nômade viajando por cidades litorâneas do Brasil
+
+#### 2) Perfil profissional:
+- Fonoaudióloga especialista em comunicação humana e que presta serviços remotos para empresas de forma autônoma
+
+#### 3) Frustrações:
+- Não consegue se programar com antecedência quando planeja mudar de cidade
+
+#### 4) Interesses:
+- Encontrar espaços de coworking em nas cidades litorâneas em que tem interesse de morar e trabalhar
+- Procurar descontos para longas estadias
 
 ## Histórias de Usuários
 
@@ -28,17 +62,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Rafael Silva  | localizar espaços de coworking na cidade onde moro          | variar meu local de trabalho durante a semana               |
+|Gabriella Ferreira       | disponibilizar espaços saudáveis de trabalho a quem precisa                 | contribuir com o aumento da produtividade e qualidade de vida dos usuários |
+|Sabrina Costa  | aumentar minha rede de networking          | criar novas parcerias profissionais e, consequentemente, meus ganhos mensais  |
+|Sabrina Costa  | realizar agendamento antecipado          | garantir que o local estará disponível quando mudar de cidade               |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -46,33 +75,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
+Os requisitos funcionais aos quais o projeto deve atender, bem como o grau de prioridade de cada um deles, estão dispostos na tabela a seguir.
+
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve ser capaz encontrar espaços de coworking por cidade | ALTA | 
+|RF-002| O site deve permitir a criação de contas pelos usuários   | ALTA |
+|RF-003| O site deve permitir que o usuário dê feedback dos lugares que utilizou | ALTA | 
+|RF-004| O site deve permitir agendamentos de espaços de trabalho específicos em cada local    | MÉDIA |
+|RF-005| O site de permitir que o usuário faça check in | BAIXA | 
+|RF-006| O site de permitir que o usuário faça check out   | BAIXA |
+|RF-007| O site deve ser capaz de redirecionar endereços a mapas virtuais e criar rotas mais rápidas para acesso ao local   | BAIXA |
 
 
 ### Requisitos não Funcionais
 
+Os requisitos não funcionais aos quais o projeto deve atender, bem como o grau de prioridade de cada um deles, estão dispostos na tabela a seguir.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| A exibição do site deve ser possível em qualquer tamanho de tela | ALTA | 
+|RNF-002| O site deve permitir o acesso de milhares de usuários ao mesmo tempo |  MÉDIA | 
+|RNF-003| O site deve ter uma aparência leve e fluida além de rápida resposta nos cliques dos usuários | BAIXA | 
 
 ## Restrições
 
@@ -82,10 +106,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
