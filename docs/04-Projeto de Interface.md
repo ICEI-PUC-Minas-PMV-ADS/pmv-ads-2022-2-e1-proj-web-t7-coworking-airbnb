@@ -38,7 +38,7 @@ Os primeiros protótipos que foram pensados foram os fluxos de autenticação on
 
 
 ### Site principal
-Nessa parte temos detalhadas as principais funcionalidades referente a tela principal, busca de coworkings, detalhes e reservas.
+Nessa parte temos detalhadas as principais funcionalidades referente a tela principal, busca de coworkings, detalhes e reservas. Aqui focamos em atender a principal demanda do nosso público-alvo: acesso a uma lista fácil com opções de coworkings que me atendam, com fácil acesso a preços e orçamentos e reserva rápida de forma online.
 
 
 ![Página de inicial](img/home.png)
