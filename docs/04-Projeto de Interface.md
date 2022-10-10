@@ -95,7 +95,7 @@ Nessa parte temos detalhadas as principais funcionalidades referente a tela prin
 Aqui disponibilizamos para o usuário um local para que possa administrar tanto seus perfis quanto suas reservas feitas, podendo até mesmo cancelá-las de maneira rápida, prática e objetiva, de forma que atenda a demanda de ser uma plataforma de fácil uso.
 
 
-![Perfil](img/perfil-dados.png)
+![Perfil](img/perfil-dados2.png)
 <p align="center">Figura 12: Perfil de usuário</p>
 
 ![Perfil reservas](img/perfil-reservas.png)
