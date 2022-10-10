@@ -7,7 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Fluxograma do usuário](img/Fluxograma.png)
+![Fluxograma do usuário](img/Fluxograma2.png)
 <p align="center">Figura 1: Fluxograma de usuário</p>
 
 ### Página inicial
@@ -26,7 +26,7 @@ Nessa parte o usuário será capaz de alterar seus dados como nome e email e tam
 
 ### Minhas reservas
 
-![Fluxograma das reservas](img/fluxo4.png)
+![Fluxograma das reservas](img/fluxo4-2.png)
 <p align="center">Figura 4: Fluxograma das minhas reservas</p>
 
 Nessa parte o usuário será capaz de visualizar suas reservas e também efetuar o cancelamento de alguma reserva caso queira.
