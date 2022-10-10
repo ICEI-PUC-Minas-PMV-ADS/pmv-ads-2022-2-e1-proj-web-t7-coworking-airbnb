@@ -16,7 +16,7 @@ A solução implementada conta com os seguintes módulos:
      - **Usuários** - usuários cadastrados 
      - **Coworkings** - registro dos coworkings criados pelos usuários
      - **Reservas** - registro das reservas feitas pelos usuários
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador, nesse caso, sendo utilizado o GitHub pages por não possuir back-end. 
+ - **GitHub Pages (servidor)** - local na Internet onde as páginas são mantidas e acessadas pelo navegador, nesse caso, sendo utilizado o GitHub pages por não possuir back-end. 
 
 ## Tecnologias Utilizadas
 
