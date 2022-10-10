@@ -8,6 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ## User Flow
 
 ![Fluxograma do usuário](img/Fluxograma.png)
+<p align="center">Figura 1: Fluxograma de usuário</p>
 
 
 ## Wireframes
@@ -17,16 +18,20 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 Os primeiros protótipos que foram pensados foram os fluxos de autenticação onde os usuários podem fazer login, se registrar e recuperar a senha caso tenham perdido. Seguem abaixo as telas respectivas para cada situação.
 
 ![Página de login](img/entrar.png)
-<p align="center">Página de login</p>
+<p align="center">Figura 2: Página de login</p>
+
 
 ![Página de registro](img/registro.png)
-<p align="center">Página de registro</p>
+<p align="center">Figura 3: Página de registro</p>
+
 
 ![Página de recuperar senha](img/senha1.png)
-<p align="center">Página de recuperar senha: informar e-mail</p>
+<p align="center">Figura 4: Página de recuperar senha: informar e-mail</p>
+
 
 ![Página de recuperar senha etapa 2](img/senha2.png)
-<p align="center">Página de recuperar senha: informar código de recuperação</p>
+<p align="center">Figura 5: Página de recuperar senha: informar código de recuperação</p>
+
 
 ![Página de recuperar senha etapa 3](img/senha2.png)
-<p align="center">Página de recuperar senha: cadastrar nova senha</p>
+<p align="center">Figura 6: Página de recuperar senha: cadastrar nova senha</p>
