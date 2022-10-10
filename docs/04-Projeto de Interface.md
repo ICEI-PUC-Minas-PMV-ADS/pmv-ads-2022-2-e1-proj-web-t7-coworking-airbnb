@@ -12,15 +12,21 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+### Autenticação
+Os primeiros protótipos que foram pensados foram os fluxos de autenticação onde os usuários podem fazer login, se registrar e recuperar a senha caso tenham perdido. Seguem abaixo as telas respectivas para cada situação.
+
+![Página de login](img/entrar.png)
+<p align="center">Página de login</p>
+
+![Página de registro](img/registro.png)
+<p align="center">Página de registro</p>
+
+![Página de recuperar senha](img/senha1.png)
+<p align="center">Página de recuperar senha: informar e-mail</p>
+
+![Página de recuperar senha etapa 2](img/senha2.png)
+<p align="center">Página de recuperar senha: informar código de recuperação</p>
+
+![Página de recuperar senha etapa 3](img/senha2.png)
+<p align="center">Página de recuperar senha: cadastrar nova senha</p>
