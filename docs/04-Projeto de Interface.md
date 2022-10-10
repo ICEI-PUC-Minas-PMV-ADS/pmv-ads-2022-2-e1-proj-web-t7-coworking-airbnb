@@ -106,3 +106,20 @@ Aqui disponibilizamos para o usuário um local para que possa administrar tanto 
 
 ![Perfil senha](img/perfil-senha.png)
 <p align="center">Figura 15: Alterar senha</p>
+
+
+### Perfil do usuário dono de coworking
+Aqui disponibilizamos para o usuário um local para que possa administrar seus espaços compartilhados que ele está oferecendo para reservas. Aqui será possível ver os espaços cadastrados, remover, editar, ver reservas e entrar em contato com os clientes.
+
+
+![Meus coworkings](img/meus-coworkings.png)
+<p align="center">Figura 16: Meus espaços</p>
+
+![Criar coworking](img/add-coworking.png)
+<p align="center">Figura 17: Criar coworking</p>
+
+![Editar coworking](img/editar-coworking.png)
+<p align="center">Figura 18: Editar coworking</p>
+
+![Reservas coworking](img/minhas-reservas-co.png)
+<p align="center">Figura 19: Reservas do meu coworking</p>
