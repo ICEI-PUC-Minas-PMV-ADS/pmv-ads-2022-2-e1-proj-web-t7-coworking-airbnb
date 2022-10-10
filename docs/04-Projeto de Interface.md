@@ -55,3 +55,20 @@ Nessa parte temos detalhadas as principais funcionalidades referente a tela prin
 
 ![Página de pagamneto aprovado](img/pagamento-aprovado.png)
 <p align="center">Figura 11: Página de pagamento aprovado</p>
+
+
+### Perfil do usuário
+Aqui disponibilizamos para o usuário um local para que possa administrar tanto seus perfis quanto suas reservas feitas, podendo até mesmo cancelá-las de maneira rápida, prática e objetiva, de forma que atenda a demanda de ser uma plataforma de fácil uso.
+
+
+![Perfil](img/perfil-dados.png)
+<p align="center">Figura 12: Perfil de usuário</p>
+
+![Perfil reservas](img/perfil-reservas.png)
+<p align="center">Figura 13: Reservas do usuário</p>
+
+![Perfil cancelar](img/perfil-cancelar.png)
+<p align="center">Figura 14: Cancelar reserva</p>
+
+![Perfil senha](img/perfil-senha.png)
+<p align="center">Figura 15: Alterar senha</p>
