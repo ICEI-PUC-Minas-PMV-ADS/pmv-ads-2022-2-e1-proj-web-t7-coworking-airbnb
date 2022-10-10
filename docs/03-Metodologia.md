@@ -70,7 +70,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 
 - `Scrum Master`: Lucas Silva
 - `Product Owner`: Antony Leme
-- `Designers`: Erick Scarponeti, Antony Leme
+- `Designers`: Erick Scarponeti
 - `Desenvolvedores`: Antony Leme, Lucas Silva, Rodrigo Gatti, Guilherme Lorenzo, Erick Scarponetti
 
 ### Processo
