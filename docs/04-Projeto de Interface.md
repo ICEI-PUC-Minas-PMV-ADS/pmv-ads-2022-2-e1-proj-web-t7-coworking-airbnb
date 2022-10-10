@@ -35,3 +35,23 @@ Os primeiros protótipos que foram pensados foram os fluxos de autenticação on
 
 ![Página de recuperar senha etapa 3](img/senha2.png)
 <p align="center">Figura 6: Página de recuperar senha: cadastrar nova senha</p>
+
+
+### Site principal
+Nessa parte temos detalhadas as principais funcionalidades referente a tela principal, busca de coworkings, detalhes e reservas.
+
+
+![Página de inicial](img/home.png)
+<p align="center">Figura 7: Página inicial do site</p>
+
+![Página de busca](img/busca.png)
+<p align="center">Figura 8: Página de busca</p>
+
+![Página de busca sem retorno](img/busca-sem-retorno.png)
+<p align="center">Figura 9: Página de busca sem retorno</p>
+
+![Página de reserva](img/details.png)
+<p align="center">Figura 10: Página de detalhes e reserva</p>
+
+![Página de pagamneto aprovado](img/pagamento-aprovado.png)
+<p align="center">Figura 11: Página de pagamento aprovado</p>
