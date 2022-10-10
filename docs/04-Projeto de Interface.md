@@ -19,22 +19,22 @@ Nessa parte, ao acessar o site o usuário será levado para a página principal 
 
 ### Meu perfil
 
-![Fluxograma do usuário](img/fluxo2.png)
+![Fluxograma do usuário](img/fluxo3.png)
 <p align="center">Figura 3: Fluxograma do perfil</p>
 
 Nessa parte o usuário será capaz de alterar seus dados como nome e email e também alterar sua senha caso haja necessidade. 
 
 ### Minhas reservas
 
-![Fluxograma das reservas](img/fluxo3.png)
-<p align="center">Figura 2: Fluxograma das minhas reservas</p>
+![Fluxograma das reservas](img/fluxo4.png)
+<p align="center">Figura 4: Fluxograma das minhas reservas</p>
 
 Nessa parte o usuário será capaz de visualizar suas reservas e também efetuar o cancelamento de alguma reserva caso queira.
 
 ### Autenticação
 
-![Fluxograma de autenticação](img/fluxo4.png)
-<p align="center">Figura 2: Fluxograma de autenticação</p>
+![Fluxograma de autenticação](img/fluxo2.png)
+<p align="center">Figura 5: Fluxograma de autenticação</p>
 
 Nessa parte o usuário pode logar caso já tenha uma conta ou efetuar o registro no sistema caso não seja registrado ainda. Ao entrar será levado para a página de buscas caso não tenha reservas ou para a página de reservas caso já haja alguma reserva. Caso o usuário tenha perdido sua senha, ele poderá efetuar a recuperação da mesma através do sistema que em algum momento será capaz de enviar um código de recuperação para que ele possa alterar sua senha. Dessa forma, o usuário informa o email, o código recebido e cadastra a nova senha.
 
