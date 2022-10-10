@@ -11,18 +11,38 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 <p align="center">Figura 1: Fluxograma de usuário</p>
 
 ### Página inicial
+
+![Fluxograma do usuário](img/fluxo1.png)
+<p align="center">Figura 2: Fluxograma da página principal</p>
+
 Nessa parte, ao acessar o site o usuário será levado para a página principal onde pode fazer uma busca. A partir daí ele será levado para a página de resultados, podendo conter opções para os filtros selecionados por ele ou não. Caso haja opções, ele poderá abrir um anúncio e realizar a reserva. 
 
 ### Meu perfil
+
+![Fluxograma do usuário](img/fluxo2.png)
+<p align="center">Figura 3: Fluxograma do perfil</p>
+
 Nessa parte o usuário será capaz de alterar seus dados como nome e email e também alterar sua senha caso haja necessidade. 
 
 ### Minhas reservas
+
+![Fluxograma das reservas](img/fluxo3.png)
+<p align="center">Figura 2: Fluxograma das minhas reservas</p>
+
 Nessa parte o usuário será capaz de visualizar suas reservas e também efetuar o cancelamento de alguma reserva caso queira.
 
 ### Autenticação
+
+![Fluxograma de autenticação](img/fluxo4.png)
+<p align="center">Figura 2: Fluxograma de autenticação</p>
+
 Nessa parte o usuário pode logar caso já tenha uma conta ou efetuar o registro no sistema caso não seja registrado ainda. Ao entrar será levado para a página de buscas caso não tenha reservas ou para a página de reservas caso já haja alguma reserva. Caso o usuário tenha perdido sua senha, ele poderá efetuar a recuperação da mesma através do sistema que em algum momento será capaz de enviar um código de recuperação para que ele possa alterar sua senha. Dessa forma, o usuário informa o email, o código recebido e cadastra a nova senha.
 
 ### Meus coworkings
+
+![Fluxograma dos meus coworkings](img/fluxo5.png)
+<p align="center">Figura 2: Fluxograma dos meus coworkings</p>
+
 Nessa parte atendemos a demanda daqueles que querem publicar espaços coworkings para aluguel. Aqui o usuário pode ver, criar deletar e editar coworkings. 
 
 ## Wireframes
