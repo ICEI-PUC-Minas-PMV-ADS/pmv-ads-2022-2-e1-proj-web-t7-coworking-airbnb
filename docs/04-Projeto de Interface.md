@@ -108,8 +108,8 @@ Aqui disponibilizamos para o usuário um local para que possa administrar tanto 
 <p align="center">Figura 15: Alterar senha</p>
 
 
-### Perfil do usuário dono de coworking
-Aqui disponibilizamos para o usuário um local para que possa administrar seus espaços compartilhados que ele está oferecendo para reservas. Aqui será possível ver os espaços cadastrados, remover, editar, ver reservas e entrar em contato com os clientes.
+### Meus coworkings (dono de coworking)
+Aqui disponibilizamos para o usuário um local para que possa administrar seus espaços compartilhados que ele está oferecendo para reservas. Aqui será possível ver os espaços cadastrados, remover, editar, ver reservas e entrar em contato com os clientes. Assim também atendemos a demanda daqueles que possuem um espaço para locação.
 
 
 ![Meus coworkings](img/meus-coworkings.png)
