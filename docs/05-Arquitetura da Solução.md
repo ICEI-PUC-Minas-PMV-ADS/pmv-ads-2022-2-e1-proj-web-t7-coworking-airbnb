@@ -7,7 +7,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ## Diagrama de componentes
 
 ![Arquitetura do sistema](img/arquitetura.png)
-Os componentes que fazem parte da solução são apresentados na Figura 1.
+<p align="center">Figura 1: arquitetura do sistema</p>
 
 A solução implementada conta com os seguintes módulos:
 - **Usuário** - Aquele que vai acessar todos os dados do sistema
@@ -33,6 +33,7 @@ A partir daí o usuário terá acesso à todos os arquivos traduzidos relacionad
 No diagrama abaixo, temos exemplificado como funciona a arquitetura de requisição e resposta entre um usuário e uma aplicação web.
 
 ![Diagrama explicando as interações entre user, front-end e back-end](https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/static/optimized/rev-9e8b3e5/wp-content/uploads/2021/04/What_Is_Web_Application_Architecture_.png)
+<p align="center">Figura 2: diagrama de interações</p>
 
 ## Hospedagem
 
