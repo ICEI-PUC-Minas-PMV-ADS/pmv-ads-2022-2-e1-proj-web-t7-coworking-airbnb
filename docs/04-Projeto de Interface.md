@@ -9,11 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Fluxo da tela principal](img/fluxo1.png)
-![Fluxo de autenticação](img/fluxo2.png)
-![Fluxo de perfil](img/fluxo3.png)
-![Fluxo de reservas](img/fluxo4.png)
-![Fluxo de meus coworkings](img/fluxo5.png)
+![Fluxograma do usuário](img/Fluxograma.png)
 
 
 ## Wireframes
