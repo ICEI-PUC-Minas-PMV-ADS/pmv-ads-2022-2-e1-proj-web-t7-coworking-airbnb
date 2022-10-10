@@ -10,6 +10,20 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ![Fluxograma do usuário](img/Fluxograma.png)
 <p align="center">Figura 1: Fluxograma de usuário</p>
 
+### Página inicial
+Nessa parte, ao acessar o site o usuário será levado para a página principal onde pode fazer uma busca. A partir daí ele será levado para a página de resultados, podendo conter opções para os filtros selecionados por ele ou não. Caso haja opções, ele poderá abrir um anúncio e realizar a reserva. 
+
+### Meu perfil
+Nessa parte o usuário será capaz de alterar seus dados como nome e email e também alterar sua senha caso haja necessidade. 
+
+### Minhas reservas
+Nessa parte o usuário será capaz de visualizar suas reservas e também efetuar o cancelamento de alguma reserva caso queira.
+
+### Autenticação
+Nessa parte o usuário pode logar caso já tenha uma conta ou efetuar o registro no sistema caso não seja registrado ainda. Ao entrar será levado para a página de buscas caso não tenha reservas ou para a página de reservas caso já haja alguma reserva. Caso o usuário tenha perdido sua senha, ele poderá efetuar a recuperação da mesma através do sistema que em algum momento será capaz de enviar um código de recuperação para que ele possa alterar sua senha. Dessa forma, o usuário informa o email, o código recebido e cadastra a nova senha.
+
+### Meus coworkings
+Nessa parte atendemos a demanda daqueles que querem publicar espaços coworkings para aluguel. Aqui o usuário pode ver, criar deletar e editar coworkings. 
 
 ## Wireframes
 
