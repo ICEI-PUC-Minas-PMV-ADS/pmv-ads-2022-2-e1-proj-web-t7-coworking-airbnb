@@ -6,29 +6,20 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
-
-Exemplo: 
-
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+![Arquitetura do sistema](img/arquitetura.png)
+Os componentes que fazem parte da solução são apresentados na Figura 1.
 
 ![Diagrama de Componentes](img/componentes.png)
 <center>Figura XX - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
-- **Navegador** - Interface básica do sistema  
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+- **Usuário** - Aquele que vai acessar todos os dados do sistema
+- **Navegador** - Interface básica do sistema
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
      - **Usuários** - usuários cadastrados 
      - **Coworkings** - registro dos coworkings criados pelos usuários
      - **Reservas** - registro das reservas feitas pelos usuários
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
-
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+ - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador, nesse caso, sendo utilizado o GitHub pages por não possuir back-end. 
 
 ## Tecnologias Utilizadas
 
