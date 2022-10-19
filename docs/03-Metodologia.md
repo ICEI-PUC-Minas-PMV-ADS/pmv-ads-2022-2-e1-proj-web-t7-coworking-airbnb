@@ -79,10 +79,3 @@ Execução: Definimos as ferramentas e criamos o kanban para ter o controle das 
 Evidência: Todo o trabalho até o momento foi produzido baseado nos conhecimentos que já adquirimos na experiência que cada integrante tem, atualmente com 3 pessoas já ter algum contato com a área de programação e 1 pessoa que está se dedicando para entender melhor, já fizemos algumas reuniões para conhecer cada um e ir trabalhando juntos para todos nós evoluir como um grupo, uma equipe.
 
 
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- `VSCode`: editor de código gratuito e adotado largamente pela comunidade, com várias opções de plugins para facilitar o desenvolvimento.
-- `Github`: repositório utilizado para depósito de código e gerenciamento do projeto entre os membros
-- `Figma`: principal editor gráfico atualmente utilizado por designers e desenvolvedores
