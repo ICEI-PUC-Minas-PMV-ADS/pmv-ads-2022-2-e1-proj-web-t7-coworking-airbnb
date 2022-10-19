@@ -56,7 +56,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 
 A prática adotada pelo grupo se baseia em um kanban, onde as tarefas serão divididas entre:
 
-Backlog
+Backlog <br>
 Lista das tarefas a ser desenvolvida; 
 Documentação do contexto; 
 Especificação do projeto;
