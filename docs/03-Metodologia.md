@@ -70,6 +70,7 @@ Registro de testes de software
 Apresentação do projeto, Referências
 
 Sprint <br>
+
 Planejamento: Entregar as atividades de Metodologia, Projeto de Interface e Arquitetura da Solução.
 Analisamos as ferramentas que vamos utilizar para desenvolver as atividades como, github, visual studio code, figma e o drive. Definimos o que cada integrante irá fazer até finalizar o projeto e as interfaces que vamos criar, tipo, a página de cadastro, a home do site. e mostrar um pouco de como vai ficar listado a estrutura do projeto.
 <br>
