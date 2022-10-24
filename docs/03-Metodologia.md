@@ -74,6 +74,7 @@ Sprint <br>
 Planejamento: Entregar as atividades de Metodologia, Projeto de Interface e Arquitetura da Solução.
 Analisamos as ferramentas que vamos utilizar para desenvolver as atividades como, github, visual studio code, figma e o drive. Definimos o que cada integrante irá fazer até finalizar o projeto e as interfaces que vamos criar, tipo, a página de cadastro, a home do site. e mostrar um pouco de como vai ficar listado a estrutura do projeto.
 <br>
+
 Execução: Definimos as ferramentas e criamos o kanban para ter o controle das tarefas, até o momento sem nenhuma dificuldade, pela experiência de alguns integrantes do projeto que já trabalha com tais ferramentas tornou o processo tranquilo,  fizemos também a interface do site com algumas páginas como; cadastro, login, recuperação de senha, criamos as páginas onde mostra um pouco das hospedagens que o usuário pode analisar o coworking, essa parte foi feita no figma onde temos noção de como mexer na ferramenta e foi só desbloquear a criatividade para executar. Foi feito um fluxograma de como funciona a lógica do site, mas, na correria acabou ficando um pouco desconector de como o site funciona de fato, usamos o whatsapp para manter a comunicação enquanto fazíamos as  tarefas.
 
 <img src="src/faculdade.png">
