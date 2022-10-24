@@ -12,7 +12,6 @@ O projeto tem como objetivo o desenvolvimento de uma plataforma onde seja possí
 
 * Antony Leme
 * Erick Scarponeti
-* Guilherme Lorenzo
 * Lucas Silva
 * Rodrigo Gatti
 
