@@ -77,6 +77,6 @@ Execução: Definimos as ferramentas e criamos o kanban para ter o controle das 
 
 <img src="src/faculdade.png">
 
-Evidência: Todo o trabalho até o momento foi produzido baseado nos conhecimentos que já adquirimos na experiência que cada integrante tem, atualmente com 3 pessoas já ter algum contato com a área de programação e 1 pessoa que está se dedicando para entender melhor, já fizemos algumas reuniões para conhecer cada um e ir trabalhando juntos para todos nós evoluir como um grupo, uma equipe.
+Evidência: Todo o trabalho até o momento foi produzido baseado nos conhecimentos que já adquirimos, na experiência que cada integrante tem, atualmente com 3 pessoas já ter algum contato com a área de programação e 1 pessoa que está se dedicando para entender melhor, já fizemos algumas reuniões para conhecer cada um e nos organizarmos para trabalharmos juntos de forma mais assertiva e eficiente.
 
 
