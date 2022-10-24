@@ -51,6 +51,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 - `Product Owner`: Antony Leme
 - `Designers`: Erick Scarponeti
 - `Desenvolvedores`: Antony Leme, Lucas Silva, Rodrigo Gatti, Guilherme Lorenzo, Erick Scarponetti
+- `Testador`: Rodrigo Gatti
 
 ### Processo
 
