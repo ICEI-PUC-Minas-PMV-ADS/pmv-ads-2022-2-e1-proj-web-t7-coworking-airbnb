@@ -58,17 +58,17 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 A prática adotada pelo grupo se baseia em um kanban, onde as tarefas serão divididas entre:
 
 Backlog <br>
-Lista das tarefas a ser desenvolvida; 
-Documentação do contexto; 
-Especificação do projeto;
-Metodologia; 
-Projeto da interface; 
-Arquitetura da solução; 
-Template padrão do site;
-Programação de funcionalidades;
-Plano de testes de software; 
-Registro de testes de software 
-Apresentação do projeto, Referências
+Lista das tarefas a ser desenvolvida;<br> 
+Documentação do contexto; <br>
+Especificação do projeto;<br>
+Metodologia; <br>
+Projeto da interface; <br>
+Arquitetura da solução; <br>
+Template padrão do site; <br>
+Programação de funcionalidades; <br>
+Plano de testes de software; <br>
+Registro de testes de software <br>
+Apresentação do projeto, Referências <br>
 
 Sprint <br>
 
