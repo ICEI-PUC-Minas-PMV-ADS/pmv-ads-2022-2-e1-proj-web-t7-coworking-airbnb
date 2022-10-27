@@ -8,7 +8,7 @@ BEERORCOFFEE. Beer of Cooffee, 2022. Disponível em: <https://beerorcoffee.com/c
 <br><br>
 CLOUDBEDS. Cloud Beds,, 2022.  Os 20 principais concorrentes do Airbnb e sites de reservas alternativos. Disponível em: <https://www.cloudbeds.com/pt-br/artigos/concorrentes-alternativas-airbnb/>. Acesso em: 13 de set. de 2022.
 <br><br>
-CNN BRASIL. Procura por espaços de coworking sobre mais de 90% em todo o mundo, diz pesquisa. CNN Brasil, 2022. Disponível em: <https://www.cnnbrasil.com.br/business/procura-por-espacos-de-coworking-sobe-mais-de-90-em-todo-o-mundo-diz-pesquisa/>. Acesso em: 13 de set. de 2022.
+CNN BRASIL. Procura por espaços de coworking sobre mais de 90% em todo o mundo, diz pesquisa. **CNN Brasil**, 2022. Disponível em: <https://www.cnnbrasil.com.br/business/procura-por-espacos-de-coworking-sobe-mais-de-90-em-todo-o-mundo-diz-pesquisa/>. Acesso em: 13 de set. de 2022.
 <br><br>
 COWORKING BRASIL. O que é Coworking? Coworking Brasil, 2022. Disponível em: <https://coworkingbrasil.org/como-funciona-coworking/>. Acesso em: 11 de set. de 2022.
 <br><br>
