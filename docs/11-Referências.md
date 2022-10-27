@@ -12,9 +12,9 @@ CNN BRASIL. Procura por espaços de coworking sobre mais de 90% em todo o mundo,
 <br><br>
 COWORKING BRASIL. O que é Coworking? Coworking Brasil, 2022. Disponível em: <https://coworkingbrasil.org/como-funciona-coworking/>. Acesso em: 11 de set. de 2022.
 <br><br>
-JORNAL NACIONAL. Profissionais que equilibram trabalho com vida pessoal são mais produtivos, diz estudo. **Jornal** Nacional, 2022. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2022/05/01/profissionais-que-equilibram-trabalho-com-vida-pessoal-sao-mais-produtivos-diz-estudo.ghtml>. Acesso em: 11 de set. de 2022.
+JORNAL NACIONAL. Profissionais que equilibram trabalho com vida pessoal são mais produtivos, diz estudo. **Jornal Nacional**, 2022. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2022/05/01/profissionais-que-equilibram-trabalho-com-vida-pessoal-sao-mais-produtivos-diz-estudo.ghtml>. Acesso em: 11 de set. de 2022.
 <br><br>
-PUENTE, B. Nômades Digitais: estilo de vida pode ser adotado por até 1 bilhão de pessoas até 2035. CNN Brasil, 2022. Disponível em: <https://www.cnnbrasil.com.br/business/nomades-digitais-estilo-de-vida-pode-ser-adotado-por-ate-1-bilhao-de-pessoas-ate-2035/>. Acesso em: 11 de set. de 2022.
+PUENTE, B. Nômades Digitais: estilo de vida pode ser adotado por até 1 bilhão de pessoas até 2035. **CNN Brasil**, 2022. Disponível em: <https://www.cnnbrasil.com.br/business/nomades-digitais-estilo-de-vida-pode-ser-adotado-por-ate-1-bilhao-de-pessoas-ate-2035/>. Acesso em: 11 de set. de 2022.
 <br><br>
 REGUS. Ajudamos as empresas a encontrar a maneira certa de trabalhar. REGUS, 2022. Disponível em: <https://www.regus.com/pt-br/about-us>. Acesso em: 13 de set. de 2022.
 
