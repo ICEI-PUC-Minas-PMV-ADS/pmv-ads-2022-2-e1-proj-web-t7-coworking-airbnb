@@ -1,6 +1,5 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
 AIRBNB. O Airbnb e como ele funciona. **Airbnb**, 2022. Disponível em: <https://www.airbnb.com.br/help/article/2503/o-que-%C3%A9-o-airbnb-e-como-ele-funciona>. Acesso em: 13 de set. de 2022.
 <br><br>
@@ -18,9 +17,3 @@ PUENTE, B. Nômades Digitais: estilo de vida pode ser adotado por até 1 bilhão
 <br><br>
 REGUS. Ajudamos as empresas a encontrar a maneira certa de trabalhar. **REGUS**, 2022. Disponível em: <https://www.regus.com/pt-br/about-us>. Acesso em: 13 de set. de 2022.
 
-
-
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
