@@ -80,6 +80,12 @@ Execução: Definimos as ferramentas e criamos o kanban para ter o controle das 
 
 <img src="src/faculdade.png">
 
-Evidência: Todo o trabalho até o momento foi produzido baseado nos conhecimentos que já adquirimos, na experiência que cada integrante tem, atualmente com 3 pessoas já ter algum contato com a área de programação e 1 pessoa que está se dedicando para entender melhor, já fizemos algumas reuniões para conhecer cada um e nos organizarmos para trabalharmos juntos de forma mais assertiva e eficiente.
+Evidência: 
+
+Segue abaixo as entregas realizadas referente a esse projeto:
+
+- Documentação de Contexto: trás informações preliminares do projeto como introdução, objetivo e público-alvo. Podo ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/3eeb21d497ac5ab0cbd62d1490d328831317c9c7/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md
+- 
+-   Todo o trabalho até o momento foi produzido baseado nos conhecimentos que já adquirimos, na experiência que cada integrante tem, atualmente com 3 pessoas já ter algum contato com a área de programação e 1 pessoa que está se dedicando para entender melhor, já fizemos algumas reuniões para conhecer cada um e nos organizarmos para trabalharmos juntos de forma mais assertiva e eficiente.
 
 
