@@ -57,7 +57,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 
 A prática adotada pelo grupo se baseia em um kanban, onde as tarefas serão divididas entre:
 
-Backlog <br>
+**Backlog** <br>
 Lista das tarefas a ser desenvolvida;<br> 
 Documentação do contexto; <br>
 Especificação do projeto;<br>
@@ -70,13 +70,13 @@ Plano de testes de software; <br>
 Registro de testes de software <br>
 Apresentação do projeto, Referências <br>
 
-Sprint <br>
+**Sprint** <br>
 
 Planejamento: Entregar as atividades de Metodologia, Projeto de Interface e Arquitetura da Solução.
-Analisamos as ferramentas que vamos utilizar para desenvolver as atividades como, github, visual studio code, figma e o drive. Definimos o que cada integrante irá fazer até finalizar o projeto e as interfaces que vamos criar, tipo, a página de cadastro, a home do site. e mostrar um pouco de como vai ficar listado a estrutura do projeto.
+Analisamos as ferramentas que vamos utilizar para desenvolver as atividades como, Github, Visual Studio Code, Figma e o Drive. Definimos o que cada integrante irá fazer até finalizar o projeto e as interfaces que vamos criar, por exemplo, a página de cadastro e a home do site.
 <br>
 
-Execução: Definimos as ferramentas e criamos o kanban para ter o controle das tarefas, até o momento sem nenhuma dificuldade, pela experiência de alguns integrantes do projeto que já trabalha com tais ferramentas tornou o processo tranquilo,  fizemos também a interface do site com algumas páginas como; cadastro, login, recuperação de senha, criamos as páginas onde mostra um pouco das hospedagens que o usuário pode analisar o coworking, essa parte foi feita no figma onde temos noção de como mexer na ferramenta e foi só desbloquear a criatividade para executar. Foi feito um fluxograma de como funciona a lógica do site, mas, na correria acabou ficando um pouco desconector de como o site funciona de fato, usamos o whatsapp para manter a comunicação enquanto fazíamos as  tarefas.
+Execução: Definimos as ferramentas e criamos o Kanban para controlar as tarefas a serem executadas. Até o momento não tivemos muita dificuldade devido à familiaridade e experiência que alguns integrantes do projeto já possuem com essas ferramentas. Fizemos também a interface do site com algumas páginas como: telas de cadastro, login e recuperação de senha. Criamos através do Figma as páginas que mostram os espaços para que o usuário possa analisar os ambientes de coworking. Para facilitar o entendimento de como funciona o site, foi feito um fluxograma que mostra a lógica de funcionamento do site. Para nos organizarmos, utilizamos diariamente o whatsapp para manter a comunicação.
 
 <img src="src/faculdade.png">
 
