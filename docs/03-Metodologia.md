@@ -85,7 +85,7 @@ Evidência:
 Segue abaixo as entregas realizadas referente a esse projeto:
 
 - **Documentação de Contexto:** trás informações preliminares e importantes do projeto como introdução, objetivo e público-alvo. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/3eeb21d497ac5ab0cbd62d1490d328831317c9c7/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md
-- **Especificação do projeto:** descrição das pessoas envolvidas no projeto, bem como os requisitos do projeto. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md
-- **Projeto de interface:** fluxogramas e interfaces do site. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/04-Projeto%20de%20Interface.md
-- **Arquitetura da solução:** diagrama de componentes, hospedagem e tecnologias utilizadas. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md
+- **Especificação do Projeto:** descrição das pessoas envolvidas no projeto, bem como os requisitos do projeto. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md
+- **Projeto de Interface:** fluxogramas e interfaces do site. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/04-Projeto%20de%20Interface.md
+- **Arquitetura da Solução:** diagrama de componentes, hospedagem e tecnologias utilizadas. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md
 
