@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('./header.css');
+@import url('./search-bar.css');
+@import url('./coworkings.css');
+@import url('./coworking-page.css');
+@import url('./profile.css');
+@import url('./reservds-page.css');
+@import url('./login.css');
+
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+
+.subtitle {
+  font-size: 21px;
+  margin-bottom: 32px;
+  font-weight: 500;
+}
+
+.container {
+  padding: 0 32px;
+}
+
+.gray-page {
+  background-color: #FBFBFB;
+  min-height: calc(100vh - 100px);
+  margin-top: -30px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label{
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.form-group input {
+  height: 48px;
+  border: 1px solid #d6d7df;
+  border-radius: 5px;
+  padding: 16px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #0092E4;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  height: 48px;
+  width: 120px;
+  border: none;
+  border-radius: 50px;
+  transition: 0.3s;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+a {
+  color: black;
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 0.7;
+}

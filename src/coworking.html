@@ -1,0 +1,106 @@
+<html>
+  <head>
+    <title>CoWorld</title>
+    <link rel="stylesheet" href="./styles/styles.css"/>
+  </head>
+  <body>
+    <div id="navbar-component"></div>
+
+    <section class="container">
+      <div class="coworking-page-grid">
+        <div class="coworking-info">
+          <div id="coworking"></div>
+          <div id="coworking-benefits"></div>
+        </div>
+        <div>
+
+          <h2 class="coworking-schedule-title">Reservar</h2>
+
+          <div class="coworking-dates">
+
+            <div class="coworking-payment-form-group">
+              <div class="coworking-payment-form-label">
+                <label>Check-in</label>
+                <div>Data de entrada</div>
+              </div>
+
+              <input type='date'/>
+            </div>
+            <div class="coworking-payment-form-group">
+              <div class="coworking-payment-form-label">
+                <label>Check-out</label>
+                <div>Data de saída</div>
+              </div>
+
+              <input type='date'/>
+            </div>
+          </div>
+
+          <div class="coworking-payment-wrapper">
+            <div class="coworking-payment">
+              <div class="coworking-payment-header">
+                <div class="coworking-title">
+                  <img src="./assets/carbon_security.svg"/>
+                  <span>Pagamento Seguro</span>
+                </div>
+                <img src="./assets/card.svg"/>
+              </div>
+
+              <div class="coworking-payment-form-group">
+                <div class="coworking-payment-form-label">
+                  <label>Número do Cartão</label>
+                  <div>Digite os 16 números do cartão</div>
+                </div>
+
+                <input/>
+              </div>
+
+              <div class="coworking-payment-form-group">
+                <div class="coworking-payment-form-label">
+                  <label>Nome completo</label>
+                  <div>Digite seu nome do cartão</div>
+                </div>
+
+                <input/>
+              </div>
+
+              <div class="coworking-payment-form-group" style="margin-bottom: 0">
+                <div class="coworking-payment-form-label">
+                  <label>Data de Expiração</label>
+                  <div>Digite a data de expiração</div>
+                </div>
+
+                <div class="coworking-payment-card-group">
+                  <div class="coworking-payment-date-wrapper">
+                    <input class="coworking-payment-date"/>
+                    <span class="coworking-payment-separator-date">/</span>
+                    <input class="coworking-payment-date"/>
+                  </div>
+
+                  <div class="coworking-payment-form-group coworking-payment-form-group-cvv">
+                    <div class="coworking-payment-form-label coworking-payment-form-label-cvv">
+                      <label>CVV</label>
+                      <div>Código</div>
+                    </div>
+    
+                    <input class="coworking-payment-cvv"/>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <button class="coworking-payment-button">
+              <img src="./assets/success.svg"/>
+              Completar pagamento
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="./components/Navbar.js"></script>
+    <script src="./components/CoworkingCards.js"></script>
+    <script src="./components/CoworkingBenefits.js"></script>
+    <script src="./pages/coworking.js"></script>
+  </body>
+</html>

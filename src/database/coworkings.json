@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Namaste Coworking",
+    "price": 140,
+    "address": "Rua da Pátria, 1234",
+    "rate": 4.7,
+    "image": "https://www.contabilizei.com.br/contabilidade-online/wp-content/uploads/2020/10/coworking-escritorio-scaled-e1603737218960.jpg",
+    "benefits": [
+      {
+        "name": "Animais",
+        "icon": "animal.svg"
+      },
+      {
+        "name": "Limpeza",
+        "icon": "clean.svg"
+      },
+      {
+        "name": "Estacionamento",
+        "icon": "park.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Harmonize Work",
+    "price": 140,
+    "address": "Rua da Ogiva, 34",
+    "rate": 5,
+    "image": "https://www.napratica.org.br/wp-content/uploads/2015/12/coworking-manual.jpg",
+    "benefits": [
+      {
+        "name": "Limpeza",
+        "icon": "clean.svg"
+      },
+      {
+        "name": "Estacionamento",
+        "icon": "park.svg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "BCN Co-Working",
+    "price": 140,
+    "address": "Rua da Martina, 124",
+    "rate": 4.2,
+    "image": "https://moovup.co/wp-content/uploads/2020/10/pessoas-conversando-coworking.jpg",
+    "benefits": [
+      {
+        "name": "Animais",
+        "icon": "animal.svg"
+      },
+      {
+        "name": "Estacionamento",
+        "icon": "park.svg"
+      }
+    ]
+  }
+]
