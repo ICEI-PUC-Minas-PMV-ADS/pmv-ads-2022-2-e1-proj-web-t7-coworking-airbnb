@@ -2,11 +2,46 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+![Arquitetura do sistema](img/home.jpeg)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+<p align="center">Figura 1: Homepage do site</p>
+
+![Arquitetura do sistema](img/search.jpeg)
+
+<p align="center">Figura 1: Página de pesquisa</p>
+
+![Arquitetura do sistema](img/coworking.jpeg)
+
+<p align="center">Figura 1: Página do coworking</p>
+
+![Arquitetura do sistema](img/profile.jpeg)
+
+<p align="center">Figura 1: Perfil do usuário</p>
+
+![Arquitetura do sistema](img/password.jpeg)
+
+<p align="center">Figura 1: Configuração de senha</p>
+
+![Arquitetura do sistema](img/reserves.jpeg)
+
+<p align="center">Figura 1: Minhas reservas</p>
+
+![Arquitetura do sistema](img/login.jpeg)
+
+<p align="center">Figura 1: Página de login</p>
+
+![Arquitetura do sistema](img/register.jpeg)
+
+<p align="center">Figura 1: Página de registro</p>
+
+![Arquitetura do sistema](img/recover.jpeg)
+
+<p align="center">Figura 1: Página de recuperar senha</p>
+
+![Arquitetura do sistema](img/recover-2.jpeg)
+
+<p align="center">Figura 1: Página de código de recuperação</p>
+
+![Arquitetura do sistema](img/recover-3.jpeg)
+
+<p align="center">Figura 1: Página de alterar senha</p>
