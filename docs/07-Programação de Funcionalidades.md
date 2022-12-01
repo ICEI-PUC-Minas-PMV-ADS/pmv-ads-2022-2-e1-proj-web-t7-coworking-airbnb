@@ -36,7 +36,7 @@ A estrutura JSON utilizada para cada coworking segue o exemplo abaixo:
   }
 ````
 
-A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/index.js).
+A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/index.js) e a página hospedada pode ser acessada [aqui](https://pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb.vercel.app/coworking.html?id=2).
 
 ## Página do coworking
 
@@ -45,4 +45,4 @@ A implementação do código responsável pela listagem pode ser acessada [aqui]
 ![Página do coworking](img/coworking-dados.png)
 <p align="center">Figura 2: Tela da página do coworking</p>
 
-A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/coworking.js).
+A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/coworking.js) e a página hospedada pode ser acessada [aqui](https://pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb.vercel.app/).
