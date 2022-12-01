@@ -36,4 +36,13 @@ A estrutura JSON utilizada para cada coworking segue o exemplo abaixo:
   }
 ````
 
-A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/search.js).
+A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/index.js).
+
+## Página do coworking
+
+### Tela implementada
+
+![Listagem de coworkings](img/coworking-dados.png)
+<span style="text-align: center">Figura 1: Tela com implementação da listagem</span>
+
+A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/coworking.js).
