@@ -56,31 +56,31 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 ### Processo
 
 
-## Sprint 1
+#### Sprint 1
 | Backlog | Realizado | Evidência |
 |---------|-----------|-----------|
 | Levantamento de requisitos das tarefas | Sim | [Kanban](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/180/views/1) |
 | Documentação do contexto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md) |
 
-## Sprint 2
+#### Sprint 2
 | Backlog | Realizado | Evidência |
 |---------|-----------|
 | Especificação do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md) |
 | Metodologia | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/03-Metodologia.md) |
 
-## Sprint 3
+#### Sprint 3
 | Backlog | Realizado | Evidência |
 |---------|-----------|-----------|
 | Projeto de interface | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/04-Projeto%20de%20Interface.md) |
 | Arquitetura da solução | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md) |
 
-## Sprint 4
+#### Sprint 4
 | Backlog | Realizado | Evidência |
 |---------|-----------|-----------| Documentação |
 | Desenvolvimento do template padrão do site | Em partes | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md) |
 | Programação das funcionalidades | Não |  |
 
-## Sprint 4
+#### Sprint 5
 | Backlog | Realizado | Evidência |
 |---------|-----------|-----------|
 | Desenvolvimento do template padrão do site | Em andamento | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md) |
@@ -89,7 +89,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 | Ajustes nas especificações do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md) |
 | Ajustes na metodologia do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/03-Metodologia.md) |
 
-## Sprint 4
+#### Sprint 6
 | Backlog | Realizado | Evidência |
 |---------|-----------|-----------|
 | Registro de testes de software | A ser feito |  |
