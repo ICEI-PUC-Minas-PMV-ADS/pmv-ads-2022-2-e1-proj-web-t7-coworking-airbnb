@@ -55,37 +55,45 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 
 ### Processo
 
-A prática adotada pelo grupo se baseia em um kanban, onde as tarefas serão divididas entre:
 
-**Backlog** <br>
-Lista das tarefas a ser desenvolvida;<br> 
-Documentação do contexto; <br>
-Especificação do projeto;<br>
-Metodologia; <br>
-Projeto da interface; <br>
-Arquitetura da solução; <br>
-Template padrão do site; <br>
-Programação de funcionalidades; <br>
-Plano de testes de software; <br>
-Registro de testes de software <br>
-Apresentação do projeto, Referências <br>
+## Sprint 1
+| Backlog | Realizado | Evidência |
+|---------|-----------|-----------|
+| Levantamento de requisitos das tarefas | Sim | [Kanban](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/180/views/1) |
+| Documentação do contexto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md) |
 
-**Sprint** <br>
+## Sprint 2
+| Backlog | Realizado | Evidência |
+|---------|-----------|
+| Especificação do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md) |
+| Metodologia | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/03-Metodologia.md) |
 
-Planejamento: Entregar as atividades de Metodologia, Projeto de Interface e Arquitetura da Solução.
-Analisamos as ferramentas que vamos utilizar para desenvolver as atividades como, Github, Visual Studio Code, Figma e o Drive. Definimos o que cada integrante irá fazer até finalizar o projeto e as interfaces que vamos criar, por exemplo, a página de cadastro e a home do site.
-<br>
+## Sprint 3
+| Backlog | Realizado | Evidência |
+|---------|-----------|-----------|
+| Projeto de interface | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/04-Projeto%20de%20Interface.md) |
+| Arquitetura da solução | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md) |
 
-Execução: Definimos as ferramentas e criamos o Kanban para controlar as tarefas a serem executadas. Até o momento não tivemos muita dificuldade devido à familiaridade e experiência que alguns integrantes do projeto já possuem com essas ferramentas. Fizemos também a interface do site com algumas páginas como: telas de cadastro, login e recuperação de senha. Criamos através do Figma as páginas que mostram os espaços para que o usuário possa analisar os ambientes de coworking. Para facilitar o entendimento de como funciona o site, foi feito um fluxograma que mostra a lógica de funcionamento do site. Para nos organizarmos, utilizamos diariamente o whatsapp para manter a comunicação.
+## Sprint 4
+| Backlog | Realizado | Evidência |
+|---------|-----------|-----------| Documentação |
+| Desenvolvimento do template padrão do site | Em partes | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md) |
+| Programação das funcionalidades | Não |  |
+
+## Sprint 4
+| Backlog | Realizado | Evidência |
+|---------|-----------|-----------|
+| Desenvolvimento do template padrão do site | Em andamento | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md) |
+| Programação das funcionalidades | Em andamento |  |
+| Plano de testes de software | Em andamento |  |
+| Ajustes nas especificações do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md) |
+| Ajustes na metodologia do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/03-Metodologia.md) |
+
+## Sprint 4
+| Backlog | Realizado | Evidência |
+|---------|-----------|-----------|
+| Registro de testes de software | A ser feito |  |
+| Programação das funcionalidades | A ser feito |  |
+| Apresentação do projeto | A ser feito |  |
 
 <img src="src/faculdade.png">
-
-Evidência: 
-
-Segue abaixo as entregas realizadas referente a esse projeto:
-
-- **Documentação de Contexto:** trás informações preliminares e importantes do projeto como introdução, objetivo e público-alvo. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/3eeb21d497ac5ab0cbd62d1490d328831317c9c7/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md
-- **Especificação do Projeto:** descrição das pessoas envolvidas no projeto, bem como os requisitos do projeto. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md
-- **Projeto de Interface:** fluxogramas e interfaces do site. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/04-Projeto%20de%20Interface.md
-- **Arquitetura da Solução:** diagrama de componentes, hospedagem e tecnologias utilizadas. Pode ser visto em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/83fef8fc0b2527f49b41bac48bf54620bd6e68cd/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md
-
