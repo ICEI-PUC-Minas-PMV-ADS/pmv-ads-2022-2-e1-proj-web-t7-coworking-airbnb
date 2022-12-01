@@ -5,7 +5,7 @@
 ### Tela implementada
 
 ![Listagem de coworkings](img/listagem.png)
-<span style="text-align: center">Figura 1: Tela com implementação da listagem</span>
+<p style="text-align: center">Figura 1: Tela com implementação da listagem</p>
 
 ### Estrutura de dados
 
@@ -42,7 +42,7 @@ A implementação do código responsável pela listagem pode ser acessada [aqui]
 
 ### Tela implementada
 
-![Listagem de coworkings](img/coworking-dados.png)
-<span style="text-align: center">Figura 1: Tela com implementação da listagem</span>
+![Página do coworking](img/coworking-dados.png)
+<p style="text-align: center">Figura 2: Tela da página do coworking</p>
 
 A implementação do código responsável pela listagem pode ser acessada [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/src/pages/coworking.js).
