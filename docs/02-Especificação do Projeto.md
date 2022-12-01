@@ -55,9 +55,10 @@ Os requisitos não funcionais aos quais o projeto deve atender, bem como o grau 
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A exibição do site deve ser possível em qualquer tamanho de tela | ALTA | 
-|RNF-002| O site deve permitir o acesso de milhares de usuários ao mesmo tempo |  MÉDIA | 
-|RNF-003| O site deve ter uma aparência leve e fluida além de rápida resposta nos cliques dos usuários | BAIXA | 
+|RNF-001| O site deve se adaptar aos tamanhos de tela | ALTA | 
+|RNF-002| O site deve ser acessível em qualquer navegador |  ALTA | 
+|RNF-003| O site deve ter uma boa experiência de usuário | MÉDIO | 
+|RNF-004| O site deve ter uma aparência moderna | BAIXO | 
 
 ## Restrições
 
@@ -65,5 +66,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| A princípio só terá espaços coworking de empresas parceiras |
+|01| O site deve ser feito em HTML, CSS e JS puro |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O desenvolvimento não pode ser terceirizado        |
