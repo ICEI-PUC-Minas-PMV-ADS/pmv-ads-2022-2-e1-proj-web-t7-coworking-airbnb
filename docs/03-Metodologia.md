@@ -95,5 +95,3 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 | Registro de testes de software | A ser feito |  |
 | Programação das funcionalidades | A ser feito |  |
 | Apresentação do projeto | A ser feito |  |
-
-<img src="src/faculdade.png">
