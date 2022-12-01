@@ -35,12 +35,19 @@ Os requisitos funcionais aos quais o projeto deve atender, bem como o grau de pr
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve ser capaz encontrar espaços de coworking por cidade | ALTA | 
-|RF-002| O site deve permitir a criação de contas pelos usuários   | ALTA |
-|RF-003| O site deve permitir que o usuário dê feedback dos lugares que utilizou | ALTA | 
-|RF-004| O site deve permitir agendamentos de espaços de trabalho específicos em cada local    | MÉDIA |
-|RF-005| O site deve ser capaz de redirecionar endereços a mapas virtuais e criar rotas mais rápidas para acesso ao local   | BAIXA |
-
+|RF-001| Deve ser possível se registrar e fazer login | ALTA | 
+|RF-002| Deve ser possível fazer buscas com filtros de coworkings | ALTA | 
+|RF-003| Deve ser possível realizar uma reserva    | ALTA |
+|RF-004| Deve ser possível cancelar uma reserva   | ALTA |
+|RF-005| Deve ser possível ver reservas feitas   | ALTA |
+|RF-006| Deve ser possível publicar anúncios   | ALTA |
+|RF-007| Deve ser possível cancelar um anúncio   | ALTA |
+|RF-008| Deve ser possível ver reservas de um anúncio   | ALTA |
+|RF-009| Deve ser possível alterar dados do perfil   | MÉDIA |
+|RF-010| Deve ser possível recuperar a senha   | MÉDIA |
+|RF-011| Deve ser possível alterar a senha   | MÉDIA |
+|RF-012| Deve ser possível editar um anúncio   | MÉDIA |
+|RF-013| Deve ser possível ver dados de contato de quem reservou   | MÉDIA |
 
 ### Requisitos não Funcionais
 
