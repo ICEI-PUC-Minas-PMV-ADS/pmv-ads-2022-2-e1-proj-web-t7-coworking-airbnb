@@ -64,7 +64,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 
 #### Sprint 2
 | Backlog | Realizado | Evidência |
-|---------|-----------|
+|---------|-----------|-----------|
 | Especificação do projeto | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md) |
 | Metodologia | Sim | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/03-Metodologia.md) |
 
@@ -76,7 +76,7 @@ Os papéis a serem desenvolvidos entre os membros a princípio (mas não necessa
 
 #### Sprint 4
 | Backlog | Realizado | Evidência |
-|---------|-----------|-----------| Documentação |
+|---------|-----------|-----------|
 | Desenvolvimento do template padrão do site | Em partes | [Documentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-coworking-airbnb/blob/main/docs/06-Template%20padr%C3%A3o%20do%20Site.md) |
 | Programação das funcionalidades | Não |  |
 
