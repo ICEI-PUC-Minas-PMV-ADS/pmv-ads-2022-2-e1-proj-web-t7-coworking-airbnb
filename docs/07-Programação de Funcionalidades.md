@@ -3,7 +3,8 @@
 ## Listagem de coworkings
 
 ### Tela implementada
-<img src='https://cdn.discordapp.com/attachments/913423147263463454/1047885039142195301/image.png'/>
+
+![Listagem de coworkings](img/listagem.png)
 <span style="text-align: center">Figura 1: Tela com implementação da listagem</span>
 
 ### Estrutura de dados
