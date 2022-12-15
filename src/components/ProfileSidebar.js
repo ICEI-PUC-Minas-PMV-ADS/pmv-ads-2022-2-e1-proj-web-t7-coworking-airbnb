@@ -7,7 +7,7 @@ class ProfileSidebar {
           <img src="./assets/avatar_placeholder.png"/>
         </div>
         <div>
-          <h2>Erick</h2>
+          <h2>Antony</h2>
         </div>
       </div>
       <div class="profile-menu">

@@ -6,7 +6,7 @@ class Header {
           <img src="../../assets/logo.svg"/>
           <a href='/profile.html' class="header-nav-login">
             <div class="header-nav-login-avatar"></div>
-            <div class="header-nav-login-name">Login</div>
+            <div class="header-nav-login-name">Antony</div>
           </a>
         </nav>
 

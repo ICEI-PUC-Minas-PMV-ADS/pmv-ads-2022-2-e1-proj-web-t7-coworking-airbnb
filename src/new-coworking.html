@@ -11,6 +11,7 @@
         <div id="sidebar-component"></div>
 
         <div class="profile-card">
+          <h2 style="margin-bottom: 24px; line-height: 24px; margin-top: -8px;">Coworking</h2>
           <form>
           <div class="profile-form-grid">
             <div class="form-group">
@@ -38,20 +39,28 @@
               <input type="date"/>
             </div>
             <div class="form-group">
+              <label>Horário de abertura</label>
+              <input type="time"/>
+            </div>
+            <div class="form-group">
+              <label>Horário de encerramento</label>
+              <input type="time"/>
+            </div>
+            <div class="form-group">
               <label>Dias de funcionamento</label>
               <div style="display: flex; align-items: center;">
                 <div style="display: flex; align-items: center; margin-right: 16px">
-                  <input name="segunda" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <input id="segunda" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
                   <label for="segunda">Segunda-feira</label>
                 </div>
                 <div style="display: flex; align-items: center;">
-                  <input name="terca" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <input id="terca" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
                   <label for="terca">Terça-feira</label>
                 </div>
               </div>
               <div style="display: flex; align-items: center;">
                 <div style="display: flex; align-items: center; margin-right: 16px">
-                  <input name="sexta" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <input id="sexta" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
                   <label for="sexta">Quarta-feira</label>
                 </div>
                 <div style="display: flex; align-items: center;">
@@ -61,16 +70,16 @@
               </div>
               <div style="display: flex; align-items: center;">
                 <div style="display: flex; align-items: center; margin-right: 16px">
-                  <input name="sexta" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <input id="sexta" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
                   <label for="sexta">Sexta-feira</label>
                 </div>
                 <div style="display: flex; align-items: center; margin-right: 16px">
-                  <input name="sabado" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <input id="sabado" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
                   <label for="sabado">Sábado</label>
                 </div>
                 <div style="display: flex; align-items: center;">
-                  <input name="sabado" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
-                  <label for="sabado">Domingo</label>
+                  <input id="domingo" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="domingo">Domingo</label>
                 </div>
               </div>
             </div>
@@ -86,6 +95,6 @@
 
     <script src="./components/Navbar.js"></script>
     <script src="./components/ProfileSidebar.js"></script>
-    <script src="../pages/profile.js"></script>
+    <script src="../pages/new-coworking.js"></script>
   </body>
 </html>
