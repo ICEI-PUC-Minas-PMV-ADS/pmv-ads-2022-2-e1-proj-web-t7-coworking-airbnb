@@ -1,0 +1,13 @@
+.my-coworking-buttons {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 16px;
+}
+
+.my-coworking-buttons a {
+  text-decoration: none;
+}
+
+.my-coworking-buttons button {
+  font-size: 14px;
+}

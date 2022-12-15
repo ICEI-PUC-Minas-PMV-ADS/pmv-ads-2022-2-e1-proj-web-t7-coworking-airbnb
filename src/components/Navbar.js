@@ -32,7 +32,7 @@ class Navbar {
           </button>
         </div>
 
-        <a href='/profile.html' class="header-nav-login">
+        <a href='/profile/index.html' class="header-nav-login">
           <div class="header-nav-login-avatar"></div>
           <div class="header-nav-login-name">Login</div>
         </a>

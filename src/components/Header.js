@@ -4,7 +4,7 @@ class Header {
       <header class="header">
         <nav class="header-nav">
           <img src="../../assets/logo.svg"/>
-          <a href='/profile.html' class="header-nav-login">
+          <a href='/profile/index.html' class="header-nav-login">
             <div class="header-nav-login-avatar"></div>
             <div class="header-nav-login-name">Login</div>
           </a>

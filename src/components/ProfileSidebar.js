@@ -23,7 +23,7 @@ class ProfileSidebar {
           <img src="./assets/schedules-icon.svg" width="22px"/>
           <span>Minhas Reservas</span>
         </a>
-        <a href="/profile.html" class="profile-menu-item ${page === 'coworkings' ? 'profile-menu-item-active' : null}">
+        <a href="/my-coworkings.html" class="profile-menu-item ${page === 'coworkings' ? 'profile-menu-item-active' : null}">
           <img src="./assets/coworkings-icon.svg" width="22px"/>
           <span>Meus Coworkings</span>
         </a>
