@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <title>CoWorld</title>
+    <link rel="stylesheet" href="./styles/styles.css"/>
+  </head>
+  <body>
+    <div id="navbar-component"></div>
+
+    <section class="container gray-page">
+      <div class="profile-page-grid">
+        <div id="sidebar-component"></div>
+
+        <div class="profile-card">
+          <form>
+          <div class="profile-form-grid">
+            <div class="form-group">
+              <label>Nome</label>
+              <input/>
+            </div>
+            <div class="form-group">
+              <label>Endereço</label>
+              <input/>
+            </div>
+            <div class="form-group">
+              <label>Telefone</label>
+              <input/>
+            </div>
+            <div class="form-group">
+              <label>Preço</label>
+              <input/>
+            </div>
+            <div class="form-group">
+              <label>Fotos</label>
+              <input type="file"/>
+            </div>
+            <div class="form-group">
+              <label>Data de início da disponibilidade</label>
+              <input type="date"/>
+            </div>
+            <div class="form-group">
+              <label>Dias de funcionamento</label>
+              <div style="display: flex; align-items: center;">
+                <div style="display: flex; align-items: center; margin-right: 16px">
+                  <input name="segunda" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="segunda">Segunda-feira</label>
+                </div>
+                <div style="display: flex; align-items: center;">
+                  <input name="terca" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="terca">Terça-feira</label>
+                </div>
+              </div>
+              <div style="display: flex; align-items: center;">
+                <div style="display: flex; align-items: center; margin-right: 16px">
+                  <input name="sexta" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="sexta">Quarta-feira</label>
+                </div>
+                <div style="display: flex; align-items: center;">
+                  <input name="sabado" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="sabado">Quinta-feira</label>
+                </div>
+              </div>
+              <div style="display: flex; align-items: center;">
+                <div style="display: flex; align-items: center; margin-right: 16px">
+                  <input name="sexta" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="sexta">Sexta-feira</label>
+                </div>
+                <div style="display: flex; align-items: center; margin-right: 16px">
+                  <input name="sabado" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="sabado">Sábado</label>
+                </div>
+                <div style="display: flex; align-items: center;">
+                  <input name="sabado" type="checkbox" style="transform: translateY(-8px); margin-right: 10px"/>
+                  <label for="sabado">Domingo</label>
+                </div>
+              </div>
+            </div>
+            <div></div>
+            <div class="profile-form-submit">
+              <button type="submit">Criar Coworking</button>
+            </div>
+          </div>
+        </form>
+        </div>
+      </div>
+    </section>
+
+    <script src="./components/Navbar.js"></script>
+    <script src="./components/ProfileSidebar.js"></script>
+    <script src="../pages/profile.js"></script>
+  </body>
+</html>

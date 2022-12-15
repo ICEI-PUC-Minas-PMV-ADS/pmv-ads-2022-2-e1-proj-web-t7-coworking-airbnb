@@ -4,7 +4,7 @@ class Header {
       <header class="header">
         <nav class="header-nav">
           <img src="../../assets/logo.svg"/>
-          <a href='/profile/index.html' class="header-nav-login">
+          <a href='/profile.html' class="header-nav-login">
             <div class="header-nav-login-avatar"></div>
             <div class="header-nav-login-name">Login</div>
           </a>
@@ -29,13 +29,15 @@ class Header {
           </div>
           <div class="search-bar-separator"></div>
           <div class="search-bar-form-group">
-            <label>Usuários</label>
+            <label>Pessoas</label>
             <input placeholder="0"/>
           </div>
-          <button class="search-bar-button">
-            <img src="./assets/search-icon.svg"/>
-            Buscar
-          </button>
+          <a class="button-link" href="/search.html">
+            <button class="search-bar-button">
+              <img src="./assets/search-icon.svg"/>
+              Buscar
+            </button>
+          </a>
         </div>
       </header>
     `;

@@ -19,7 +19,7 @@ class MyCoworkingCards {
             <a href="/my-coworking.html?id=${id}" style="width: 100%; margin-right: 16px;">
               <button style="white-space: nowrap">Ver Reservas</button>
             </a>
-            <a href="/my-coworking.html?id=${id}">
+            <a href="/new-coworking.html?id=${id}">
               <button>Editar</button>
             </a>
           </div>
